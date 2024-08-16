@@ -1,2 +1,0 @@
-- Retocar algunas cosas
-- Presentar
